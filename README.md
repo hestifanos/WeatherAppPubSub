@@ -31,4 +31,4 @@ python consumer.py --subscription weather-sub --csv consumed_messages.csv
 - `producer.py`: reads CSV rows and publishes serialized records.
 - `consumer.py`: subscribes to messages and processes received records.
 
-Cloud charges and permissions may apply. Test with a development project and non-sensitive data.
+
